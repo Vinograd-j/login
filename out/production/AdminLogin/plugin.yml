@@ -1,0 +1,8 @@
+name: alogin
+version: 1.0
+main: me.vinograd.adlogin.Main
+commands:
+  alogin13: {}
+  aadd14: {}
+  admand: {}
+  anlogin15: {}
